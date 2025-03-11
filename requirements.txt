@@ -1,0 +1,4 @@
+deep_translator
+openai-whisper
+datetime
+gradio
